@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/emre/Documents/GitHub/etkinlik/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/emre/.gradle/caches/transforms-3/a3f3e5b22e9e19bc595855dd32e920d8/transformed/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/emre/Documents/GitHub/etkinlik/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/emre/.gradle/caches/transforms-3/a3f3e5b22e9e19bc595855dd32e920d8/transformed/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/emre/Documents/GitHub/etkinlik/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/emre/.gradle/caches/transforms-3/a3f3e5b22e9e19bc595855dd32e920d8/transformed/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/emre/Documents/GitHub/etkinlik/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/emre/.gradle/caches/transforms-3/a3f3e5b22e9e19bc595855dd32e920d8/transformed/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]

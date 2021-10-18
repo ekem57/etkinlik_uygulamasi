@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172983194093",
+    "project_id": "etkinlik-uygulamasi-27c01",
+    "storage_bucket": "etkinlik-uygulamasi-27c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172983194093:android:f0636adbef4a30e540d7e4",
+        "android_client_info": {
+          "package_name": "com.omer.eu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172983194093-8r1ogk79k29s4dl64lgbnab03hvo58cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFVyoCeTxNPlhQKuGQcHfOuXo67chvaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172983194093-8r1ogk79k29s4dl64lgbnab03hvo58cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

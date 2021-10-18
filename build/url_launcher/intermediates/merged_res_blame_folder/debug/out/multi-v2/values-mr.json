@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/emre/Documents/GitHub/etkinlik/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/Users/emre/.gradle/caches/transforms-3/a3f3e5b22e9e19bc595855dd32e920d8/transformed/core-1.1.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/emre/Documents/GitHub/etkinlik/build/url_launcher/intermediates/res/merged/debug/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/Users/emre/.gradle/caches/transforms-3/a3f3e5b22e9e19bc595855dd32e920d8/transformed/core-1.1.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
